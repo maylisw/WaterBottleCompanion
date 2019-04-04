@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Water Bottle Companion</string>
+    <string name="title_logs">Logs</string>
+    <string name="title_connect">Connect</string>
+    <string name="title_sync">Sync</string>
+    <string name="logs_title">Logs</string>
+    <string name="scanresult_connect">Connect</string>
+    <string name="scanresult_advertisement_viewrawdata">View Raw Data</string>
+    <string name="peripheraldetails_connecting">Connecting...</string>
+</resources>
